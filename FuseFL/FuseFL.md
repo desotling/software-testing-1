@@ -43,6 +43,7 @@ Test Results: The code is producing incorrect results. For example:
 }
 * 这就是如何将三类信息加入prompt的模版。
 
+
 #### 实验：
 * ⾸先⽐较FuseFL的⾃动故障定位性能，与不含这些附加信息的LLM定位结果作对⽐，以Top-1命中率衡量改进幅度。
 * 其次，将FuseFL⽣成的解释与⼈类参考解释⽐对，并通过⼈⼯⽤户研究评估解释的正确性和有⽤性（随机抽样30个案例请开发者判断）。
